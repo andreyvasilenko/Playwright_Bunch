@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri Feb 09 14:13:25 EET 2024","Fri Feb 09 14:13:31 EET 2024","6443","chromium","help.bunch.spec.js","","","","Perform a search by random section name from a test file and verify appropriate section opened",""
+"passed","Fri Feb 09 14:13:25 EET 2024","Fri Feb 09 14:13:30 EET 2024","5826","chromium","help.bunch.spec.js","","","","Click on random section from the grid, open random article and verify appropriate information displayed",""
+"passed","Fri Feb 09 14:13:25 EET 2024","Fri Feb 09 14:13:36 EET 2024","11165","chromium","help.bunch.spec.js","","","","Open Homepage using Go to Bunch button and verify the user can open Sign In page by navigation button",""
+"passed","Fri Feb 09 14:13:25 EET 2024","Fri Feb 09 14:13:30 EET 2024","5670","chromium","help.bunch.spec.js","","","","User can navigate to the main Help page by breadcrumb All Collections",""

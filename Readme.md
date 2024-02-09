@@ -7,9 +7,9 @@ Test cases and reason for selection:
 4) "User can navigate to the main Help page by breadcrumb All Collections" - frequently used scenario 
 
 To generate a new Allure report: 
-npx allure generate ./allure-results/ --clean
-npx allure open ./allure-report/
+"npx allure generate ./allure-results/ --clean" and 
+"npx allure open ./allure-report/"
 
 To set the env variable prod/stage use variable TEST_ENV: 
-TEST_ENV=stage npx playwright test
-TEST_ENV=prod npx playwright test (without TEST_ENV will also use prod env) 
+"TEST_ENV=stage npx playwright test" and 
+"TEST_ENV=prod npx playwright test (without TEST_ENV will also use prod env)"
